@@ -1,0 +1,603 @@
+﻿question,correct_answer,LoopQuestion.thisRepN,LoopQuestion.thisTrialN,LoopQuestion.thisN,LoopQuestion.thisIndex,textWelcomeMessage.started,textWelcomeMessage.stopped,key_Welcome.keys,key_Welcome.rt,key_Welcome.started,key_Welcome.stopped,textBlank.started,textBlank.stopped,text.started,text.stopped,keyQuestion.keys,keyQuestion.corr,keyQuestion.rt,keyQuestion.started,keyQuestion.stopped,textGoodbyeMessage.started,textGoodbyeMessage.stopped,key_Goodbye.keys,key_Goodbye.rt,key_Goodbye.started,key_Goodbye.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,9.767982700024731,None,space,1.5830602000060026,9.767982700024731,None,,,,,,,,,,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,0,0,0,9,,,,,,,14.343580000015208,None,11.802758800011361,None,c,1,2.5154831999971066,11.802758800011361,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,0,1,1,8,,,,,,,19.206171000027098,None,14.75268090001191,None,b,0,4.4322934000229,14.75268090001191,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,0,2,2,2,,,,,,,25.35114940002677,None,19.61345670002629,None,a,1,5.711667800002033,19.61345670002629,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,0,3,3,5,,,,,,,36.059061000007205,None,25.75833730000886,None,b,1,10.280018100020243,25.75833730000886,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,0,4,4,4,,,,,,,41.73760820002644,None,36.46430650001275,None,d,1,5.258268500008853,36.46430650001275,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,0,5,5,7,,,,,,,49.09839810000267,None,42.138222200010205,None,d,1,6.9323947000084445,42.138222200010205,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,0,6,6,6,,,,,,,55.409637700009625,None,49.505658700014465,None,a,0,5.8774001999991015,49.505658700014465,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,0,7,7,1,,,,,,,63.88614210000378,None,55.809308700001566,None,b,1,8.05596090000472,55.809308700001566,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,0,8,8,3,,,,,,,69.96445580001455,None,64.29990320000798,None,c,1,5.640973500005202,64.29990320000798,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,0,9,9,0,,,,,,,80.58959519999917,None,70.36465240002144,None,c,0,10.203993500006618,70.36465240002144,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,1,0,10,0,,,,,,,83.80317290002131,None,80.98889440001221,None,c,0,2.7833403999975417,80.98889440001221,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,1,1,11,5,,,,,,,87.4505975000211,None,84.20798660002765,None,b,1,3.222588900011033,84.20798660002765,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,1,2,12,7,,,,,,,91.18048330000602,None,87.8567065000243,None,c,0,3.299975899979472,87.8567065000243,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,1,3,13,3,,,,,,,96.40966050000861,None,91.58555560000241,None,c,1,4.794580499990843,91.58555560000241,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,1,4,14,1,,,,,,,103.85346490002121,None,96.80933730001561,None,b,1,7.0126572999870405,96.80933730001561,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,1,5,15,8,,,,,,,109.69871180001064,None,104.25474210001994,None,b,0,5.42594950000057,104.25474210001994,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,1,6,16,4,,,,,,,114.07829320000019,None,110.09802400000626,None,d,1,3.9488443000009283,110.09802400000626,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,1,7,17,9,,,,,,,118.441504300019,None,114.47813800000586,None,c,1,3.9427315999928396,114.47813800000586,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,1,8,18,6,,,,,,,127.30106830000295,None,118.84579330001725,None,c,1,8.433989000011934,118.84579330001725,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,1,9,19,2,,,,,,,133.26264000000083,None,127.70078390001436,None,a,1,5.534206599986646,127.70078390001436,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,2,0,20,5,,,,,,,135.74380340002244,None,133.6664027000079,None,b,1,2.0559438000200316,133.6664027000079,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,2,1,21,7,,,,,,,140.14048340002773,None,136.14548350000405,None,c,0,3.97359450001386,136.14548350000405,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,2,2,22,2,,,,,,,143.47083520001615,None,140.53995630002464,None,a,1,2.8993224000150803,140.53995630002464,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,2,3,23,6,,,,,,,151.56433560000733,None,143.87383360002423,None,c,1,7.666357000009157,143.87383360002423,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,2,4,24,4,,,,,,,155.84414030000335,None,151.96967680001399,None,d,1,3.845720800018171,151.96967680001399,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,2,5,25,8,,,,,,,169.33292559999973,None,156.25029190001078,None,d,1,13.051279699982842,156.25029190001078,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,2,6,26,0,,,,,,,174.74508870000136,None,169.73313810001127,None,a,1,4.98280430000159,169.73313810001127,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,2,7,27,1,,,,,,,180.8734947000048,None,175.14615080002113,None,b,1,5.7104304000095,175.14615080002113,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,2,8,28,3,,,,,,,183.67150960001163,None,181.27968950002105,None,c,1,2.367281600018032,181.27968950002105,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,2,9,29,9,,,,,,,185.70304500000202,None,184.07120180001948,None,c,1,1.600908000022173,184.07120180001948,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,3,0,30,4,,,,,,,188.76702270001988,None,186.10535680002067,None,d,1,2.633283200004371,186.10535680002067,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,3,1,31,2,,,,,,,194.31223700000555,None,189.16676970000844,None,a,1,5.128384899988305,189.16676970000844,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,3,2,32,1,,,,,,,197.27668280000216,None,194.7122619000147,None,b,1,2.5460578000056557,194.7122619000147,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,3,3,33,9,,,,,,,199.35855450000963,None,197.67644060001476,None,c,1,1.6604147999896668,197.67644060001476,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,3,4,34,7,,,,,,,202.48936540001887,None,199.76136050000787,None,c,0,2.6983937999757472,199.76136050000787,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,3,5,35,8,,,,,,,204.95378210002673,None,202.89056900001015,None,a,0,2.0321979000000283,202.89056900001015,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,3,6,36,0,,,,,,,213.4133756000083,None,205.353615,None,c,0,8.037085000018124,205.353615,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,3,7,37,3,,,,,,,215.94483650001348,None,213.8226121000189,None,c,1,2.105865999998059,213.8226121000189,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,3,8,38,5,,,,,,,218.92570510000223,None,216.35370289999992,None,b,1,2.551657799980603,216.35370289999992,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,3,9,39,6,,,,,,,222.48962810001103,None,219.3306758000108,None,c,1,3.1309059000050183,219.3306758000108,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,4,0,40,5,,,,,,,226.60271480001393,None,222.8948445999995,None,b,1,3.6772684000025038,222.8948445999995,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,4,1,41,2,,,,,,,231.71491220002645,None,227.00276160001522,None,a,1,4.688304300012533,227.00276160001522,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,4,2,42,7,,,,,,,237.3439045000123,None,232.12015030000475,None,d,1,5.201598699990427,232.12015030000475,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,4,3,43,4,,,,,,,240.47463130002143,None,237.74525200002245,None,d,1,2.7038669000030495,237.74525200002245,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,4,4,44,1,,,,,,,244.18857389999903,None,240.87435490000644,None,a,0,3.2924102999968454,240.87435490000644,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,4,5,45,0,,,,,,,248.0184630000149,None,244.59126070002094,None,c,0,3.4101402000233065,244.59126070002094,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,4,6,46,8,,,,,,,253.4474079000065,None,248.4205030000012,None,d,1,5.000782299990533,248.4205030000012,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,4,7,47,3,,,,,,,256.3783611000108,None,253.85274890001165,None,c,1,2.4945446999918204,253.85274890001165,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,4,8,48,9,,,,,,,258.7763759000227,None,256.7781003000273,None,c,1,1.9768458000035025,256.7781003000273,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,4,9,49,6,,,,,,,263.32284580002306,None,259.1817759000114,None,c,1,4.120725799992215,259.1817759000114,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,5,0,50,2,,,,,,,266.05343280002126,None,263.7223259000166,None,a,1,2.315687499998603,263.7223259000166,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,5,1,51,7,,,,,,,269.6673118000035,None,266.454567400011,None,d,1,3.1859425000147894,266.454567400011,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,5,2,52,6,,,,,,,273.3308748000127,None,270.0710902000137,None,c,1,3.2305747999926098,270.0710902000137,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,5,3,53,8,,,,,,,275.9954690000159,None,273.7325031000073,None,d,1,2.2340775999764446,273.7325031000073,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,5,4,54,0,,,,,,,280.3089125000115,None,276.3952404000156,None,c,0,3.8878425999719184,276.3952404000156,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,5,5,55,4,,,,,,,283.0563992000243,None,280.70993610000005,None,d,1,2.328445500024827,280.70993610000005,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,5,6,56,1,,,,,,,289.5681407000229,None,283.4563236000249,None,b,1,6.090753800002858,283.4563236000249,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,5,7,57,5,,,,,,,294.36403190001147,None,289.9688745000167,None,b,1,4.379214000015054,289.9688745000167,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,5,8,58,9,,,,,,,296.2121895000164,None,294.7635347000032,None,c,1,1.4182312000193633,294.7635347000032,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,5,9,59,3,,,,,,,299.4427563000063,None,296.61941500002285,None,c,1,2.8053766999801155,296.61941500002285,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,6,0,60,1,,,,,,,308.86887950001983,None,299.8426799000008,None,a,0,8.997951099998318,299.8426799000008,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,6,1,61,9,,,,,,,310.9002227000019,None,309.2685561000253,None,c,1,1.6072068000212312,309.2685561000253,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,6,2,62,6,,,,,,,313.31489540002076,None,311.30519600000116,None,c,1,1.9827402999799233,311.30519600000116,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,6,3,63,7,,,,,,,321.758187200001,None,313.7143829000124,None,d,1,8.015635999996448,313.7143829000124,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,6,4,64,5,,,,,,,324.77224930000375,None,322.1596474000253,None,b,1,2.5880138999782503,322.1596474000253,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,6,5,65,2,,,,,,,333.9646503000113,None,325.1718639000028,None,a,1,8.773194400011562,325.1718639000028,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,6,6,66,4,,,,,,,336.74549160001334,None,334.36576000001514,None,d,1,2.3491533000196796,334.36576000001514,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,6,7,67,3,,,,,,,339.14394230002654,None,337.15235680001206,None,a,0,1.9712340999976732,337.15235680001206,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,6,8,68,8,,,,,,,341.75831220002146,None,339.5485898000188,None,b,0,2.1890235999890137,339.5485898000188,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,6,9,69,0,,,,,,,345.55533470000955,None,342.16067430001567,None,c,0,3.3644388000248,342.16067430001567,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,7,0,70,8,,,,,,,348.019866800023,None,345.9588320000039,None,d,1,2.034011299983831,345.9588320000039,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,7,1,71,2,,,,,,,350.4678993000125,None,348.42242210000404,None,a,1,2.0185897999908775,348.42242210000404,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,7,2,72,7,,,,,,,353.4819199000194,None,350.87238130002515,None,d,1,2.591743700002553,350.87238130002515,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,7,3,73,3,,,,,,,355.71340230002534,None,353.8918907000043,None,c,1,1.7982300999865402,353.8918907000043,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,7,4,74,5,,,,,,,357.944854100002,None,356.1157404000114,None,b,1,1.8132174999918789,356.1157404000114,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,7,5,75,1,,,,,,,361.4253680000256,None,358.3466177000082,None,b,1,3.057248500001151,358.3466177000082,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,7,6,76,9,,,,,,,364.0400742000202,None,361.8253732000012,None,c,1,2.1978401000087615,361.8253732000012,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,7,7,77,0,,,,,,,366.75417830000515,None,364.43948330002604,None,c,0,2.298940100008622,364.43948330002604,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,7,8,78,6,,,,,,,369.6185673,None,367.1592072000203,None,c,1,2.4294479000091087,367.1592072000203,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,7,9,79,4,,,,,,,372.71629070001654,None,370.02054330002284,None,d,1,2.6726532999891788,370.02054330002284,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,8,0,80,8,,,,,,,375.33084200002486,None,373.11683240000275,None,d,1,2.190153300005477,373.11683240000275,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,8,1,81,0,,,,,,,377.56234650002443,None,375.7302212000068,None,c,0,1.8130394000036176,375.7302212000068,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,8,2,82,9,,,,,,,379.26074810000136,None,377.961967500014,None,c,1,1.274024800019106,377.961967500014,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,8,3,83,6,,,,,,,381.54236940000555,None,379.6677900000068,None,c,1,1.8547402000112925,379.6677900000068,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,8,4,84,1,,,,,,,384.33994630002417,None,381.94319470002665,None,b,1,2.3761278000019956,381.94319470002665,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,8,5,85,4,,,,,,,386.5381212000211,None,384.74227090002387,None,d,1,1.7722900999942794,384.74227090002387,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,8,6,86,2,,,,,,,390.11882490001153,None,386.93768280002405,None,a,1,3.163748699997086,386.93768280002405,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,8,7,87,5,,,,,,,391.85045480000554,None,390.5233081000042,None,b,1,1.3048789000022225,390.5233081000042,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,8,8,88,7,,,,,,,393.79892240001936,None,392.25012980002793,None,d,1,1.5276063000201248,392.25012980002793,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,8,9,89,3,,,,,,,396.03035310000996,None,394.20610900002066,None,c,1,1.8035238000156824,394.20610900002066,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what should be the input of rnorm()?
+ 
+ A. min value, max value, number of data points 
+ B. mean, variance, number of data points  
+ C. number of data points, mean  
+ D. number of data points, mean, standard deviation",d,9,0,90,7,,,,,,,398.9779307000281,None,396.4368927000032,None,d,1,2.519742000004044,396.4368927000032,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R tidyverse, what does a piping symbol look like? 
+ 
+ A. |> 
+ B. %<% 
+ C.%>%  
+ D. %%%",c,9,1,91,9,,,,,,,400.5767326000205,None,399.3775580000074,None,c,1,1.1805001999891829,399.3775580000074,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is an efficient way to install a package? 
+ 
+ A. surf the internet and download the wanted package directly 
+ B. use the function install.packages ("x") 
+ C. use the function install.packages (x) 
+ D. use the function library(x)",b,9,2,92,5,,,,,,,402.49183780001476,None,400.9799410000269,None,b,1,1.4819136000005528,400.9799410000269,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what does the ifelse function do? 
+ 
+ A. it removes values that do not apply to the condition 
+ B. it tests a condition and returns TRUE or FALSE in a vector  
+ C. it tests a condition and does x if it is true and y if it is false 
+ D. all of the above can be true, this depends on all conditions given to the function. ",c,9,3,93,3,,,,,,,405.0062842000043,None,402.89654890002566,None,c,1,2.078271299978951,402.89654890002566,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In pyhton, you can you save your plt figure? 
+ 
+ A. using the function plt.savefig(your_title.png) 
+ B. save('your_title.png')  
+ C. save(your_title.png)   
+ D. none of the above",d,9,4,94,8,,,,,,,407.4211966000148,None,405.40859580002143,None,d,1,1.9801840000145603,405.40859580002143,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to detect missing data? 
+ 
+ A. is_na(X) 
+ B. X == NA 
+ C. is.na(X) 
+ D. is_na('X')",a,9,5,95,0,,,,,,,409.4360167000268,None,407.820928000001,None,c,0,1.591270800010534,407.820928000001,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = [6,2,3,74,2,7,1] what is the output of x[1] in python? 
+ 
+ A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",b,9,6,96,1,,,,,,,415.13141210001777,None,409.8362557000073,None,b,1,5.263924300001236,409.8362557000073,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"In R, what is the output of unique(c(5,2,4,2,3,5,3,2,4,1,2,3,4))
+ 
+ A. 40 
+ B. 1 2 3 4 5 
+ C. 15 
+ D. 5 2 4 3 1",d,9,7,97,4,,,,,,,418.6618048000091,None,415.5310425000207,None,d,1,3.099720600002911,415.5310425000207,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"If there is a vector x = c(6,2,3,74,2,7,1) what is the output of x[1] in R ?
+ 
+  A. 6 
+ B. 2  
+ C. 4 
+ D. none of the above",a,9,8,98,2,,,,,,,421.50961980002467,None,419.0613699000096,None,a,1,2.4272368000238203,419.0613699000096,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+"What is a function in R to generate data that is randomly distributed; what is a function in python to generate data that is randomly distributed?
+ 
+ A. random(); np.random.normal 
+ B. rnorm(); random.data  
+ C. rnorm(); np.random.normal()  
+ D.random(); random.data()",c,9,9,99,6,,,,,,,425.4894603000139,None,421.91505900002085,None,c,1,3.5575009000021964,421.91505900002085,None,,,,,,,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
+,,,,,,,,,,,,,,,,,,,,,425.8895816000004,None,space,1.7235944999847561,425.8895816000004,None,1,001,2022_Feb_02_1634,MC_programming,2021.2.3,60.04365173866981,
