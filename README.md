@@ -1,5 +1,5 @@
 # programming-course
-In this repository is a cheat function. 
+In this repository contains a cheat function. 
 
 This function is created for the programming course in the research master psychology
 
